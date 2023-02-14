@@ -149,7 +149,7 @@ a {
     width: 470px;
     height: 685px;
     /* object-fit:contain; */
-    background: url(/assest/img/guy-lesson\ 1.svg);
+    background: url(../img/guy-lesson\ 1.svg);
     border-radius: 20px;
     margin-top: 3rem;
 }
